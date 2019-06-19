@@ -1,0 +1,25 @@
+go to this website:
+
+https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html
+
+install:
+
+pip install gspread
+or
+pip3 install gspread
+
+
+pip install gspread oauth2client
+or
+pip3 install gspread oauth2client
+
+then run the code
+
+sensor.py should be the file for sensor for science fair
+
+spreadsheet.py should be the file for testing are data able to insert to google spread sheet
+
+spread sheet:
+https://docs.google.com/spreadsheets/d/1ONG90-HlaHAmBE-UHDA3NrPCZutu3-zgIlQeB7rN59U/edit#gid=0
+
+
